@@ -132,4 +132,4 @@ Learning Git, Linux, DevOps & Cloud
 
 This repository is part of my continuous learning journey in Git and version control.
 
-More commands, notes, and practice exercises will be added regularly
+More commands, notes, and practice exercises will be added regularly.
